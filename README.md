@@ -1,14 +1,14 @@
 <h1 align="center">Hi There👋, My self Mani</h1>
 <h3 align="center">Im Looking for opportunities</h3>
 <p align="center">
-  <a href="https://github.com/Srinumani/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Front+End+Developer;Computer+Science+Student;Competitive+Programmer;Expert+on+Frontend+Technologies;Always+learning+new+things;Looking+for+New+Opportunities;Ask+me+about+React.js"></a>
+  <a href="https://github.com/Srinumani/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Front+End+Developer;Graphic+Designer;Computer+Science+Student;Competitive+Programmer;Expert+on+Frontend+Technologies;Always+learning+new+things;Looking+for+New+Opportunities;Ask+me+about+React.js"></a>
 </p>
 
  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
  
 - 🌱 I’m currently learning **SPRING BOOT,JAVA FULLSTACK**
 
-- 👨‍💻 All of my projects are available at [https://srinumani.github.io/Mani_repo/portfolio_index.html](https://srinumani.github.io/Mani_repo/portfolio_index.html)
+- 👨‍💻 All of my projects are live at [https://srinumani.github.io/Mani_repo/portfolio_index.html](https://srinumani.github.io/Mani_repo/portfolio_index.html)
 
 - 💬 Ask me about **REACT.JS,**
 
@@ -17,7 +17,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/124svfWLgkbeG1KIVoOCWMdbnzpy7qvBy/view?usp=sharing](https://drive.google.com/file/d/124svfWLgkbeG1KIVoOCWMdbnzpy7qvBy/view?usp=sharing)
 
 - ⚡ Fun fact **I Like To Play Volleyball**
-- ### 🛠 &nbsp;Tech Stack
+
+### 🛠 &nbsp;Tech Stack
 
 <p align="left">
 <a href="https://github.com/### 🛠 &nbsp;Tech Stack
@@ -53,4 +54,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/srinu-manikanta-484027237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srinu-manikanta-484027237" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinumani&" alt="srinumani" /></p>
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=Srinumani&label=Views&color=brightgreen&style=flat-square" alt="views on github" width="180px" height="100px" />
+</p>
