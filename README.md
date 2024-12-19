@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manikanta</h1>
+<h1 align="center">Hi There👋, My self Mani</h1>
 <h3 align="center">Im Looking for opportunities</h3>
 <p align="center">
   <a href="https://github.com/Srinumani/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Front+End+Developer;Computer+Science+Student;Competitive+Programmer;Expert+on+Frontend+Technologies;Always+learning+new+things;Looking+for+New+Opportunities;Ask+me+about+React.js"></a>
@@ -19,7 +19,7 @@
 - ⚡ Fun fact **I Like To Play Volleyball**
 - ### 🛠 &nbsp;Tech Stack
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/### 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -52,8 +52,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/srinu-manikanta-484027237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srinu-manikanta-484027237" height="30" width="40" /></a>
 </p>
-
- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srinumani&show_icons=true&locale=en" alt="srinumani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinumani&" alt="srinumani" /></p>
