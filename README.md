@@ -6,7 +6,7 @@
 
  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
  
-- 🌱 I’m currently learning **SPRING BOOT,JAVA FULLSTACK**
+- 🌱 I’m currently learning **AZURE Data Engineering **
 
 - 👨‍💻 All of my projects are live at [https://srinumani.github.io/Mani_repo/portfolio_index.html](https://srinumani.github.io/Mani_repo/portfolio_index.html)
 
