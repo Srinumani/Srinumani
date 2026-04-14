@@ -35,14 +35,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-05122A?style=flat&logo=azure-devops)&nbsp;
  
-### ⚙️ &nbsp;GitHub Analytics
+ 
 
-<p align="center">
-<a href="https://github.com/Srinumani">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Srinumani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Srinumani&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+ 
   
 
 <h3 align="left">Connect with me:</h3>
