@@ -1,20 +1,18 @@
 <h1 align="center">Hi There👋, My self Mani</h1>
-<h3 align="center">Im Looking for opportunities</h3>
+<h3 align="center">Im Looking for Data Engineering opportunities</h3>
 <p align="center">
-  <a href="https://github.com/Srinumani/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Front+End+Developer;Graphic+Designer;Computer+Science+Student;Competitive+Programmer;Expert+on+Frontend+Technologies;Always+learning+new+things;Looking+for+New+Opportunities;Ask+me+about+React.js"></a>
+  <a href="https://github.com/Srinumani/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Azure+Data+Engineer;ADF+%7C+Databricks+%7C+ADLS+Gen2;PySpark+%7C+Delta+Lake+%7C+SQL;Building+Scalable+Data+Pipelines;Healthcare+Data+Engineering;Medallion+Architecture+Expert;Always+Learning+New+Technologies;Open+to+Data+Engineering+Opportunities" />
+</a>
 </p>
 
  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
  
 - 🌱 I’m currently learning **AZURE Data Engineering **
 
-- 👨‍💻 All of my projects are live at [https://srinumani.github.io/Mani_repo/portfolio_index.html](https://srinumani.github.io/Mani_repo/portfolio_index.html)
-
-- 💬 Ask me about **REACT.JS,**
+- 💬 Ask me about **AZURE Data Engineering & REACT.JS,**
 
 - 📫 How to reach me **srinumanikanta0011@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/124svfWLgkbeG1KIVoOCWMdbnzpy7qvBy/view?usp=sharing](https://drive.google.com/file/d/124svfWLgkbeG1KIVoOCWMdbnzpy7qvBy/view?usp=sharing)
 
 - ⚡ Fun fact **I Like To Play Volleyball**
 
@@ -23,21 +21,19 @@
 <p align="left">
 <a href="https://github.com/### 🛠 &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+ ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-05122A?style=flat&logo=microsoft-azure)&nbsp;
+![ADF](https://img.shields.io/badge/-Azure%20Data%20Factory-05122A?style=flat)&nbsp;
+![Databricks](https://img.shields.io/badge/-Azure%20Databricks-05122A?style=flat&logo=databricks)&nbsp;
+![ADLS](https://img.shields.io/badge/-ADLS%20Gen2-05122A?style=flat)&nbsp;
+![Synapse](https://img.shields.io/badge/-Azure%20Synapse-05122A?style=flat)&nbsp;
+![PySpark](https://img.shields.io/badge/-PySpark-05122A?style=flat&logo=apache-spark)&nbsp;
+![Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=apache-spark)&nbsp;
+![Delta Lake](https://img.shields.io/badge/-Delta%20Lake-05122A?style=flat)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-05122A?style=flat&logo=azure-devops)&nbsp;
  
 ### ⚙️ &nbsp;GitHub Analytics
 
