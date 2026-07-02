@@ -10,7 +10,7 @@
  
 - 🌱 I’m currently learning **AZURE Data Engineering **
 
-- 💬 Ask me about **AZURE Data Engineering & REACT.JS,**
+- 💬 Ask me about **AZURE Data Engineering**
 
 - 📫 How to reach me **srinumanikanta0011@gmail.com**
 
