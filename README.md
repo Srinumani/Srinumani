@@ -8,11 +8,11 @@
 
  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
  
-- 🌱 I’m currently learning **AZURE Data Engineering **
+- 🌱 Currently working on **AZURE Data Engineering**
 
 - 💬 Ask me about **AZURE Data Engineering**
 
-- 📫 How to reach me **srinumanikanta0011@gmail.com**
+- 📫 How to reach me **srinumanikantakatha@gmail.com**
 
 - ⚡ Fun fact **I Like To Play Volleyball**
 
